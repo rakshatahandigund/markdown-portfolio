@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. FOOD
+    - Gobi Manchuri 
+    - Punjabi Dishes
+       * Paratha
+2. SPORTS
+    * Football
+    * Volleyball
